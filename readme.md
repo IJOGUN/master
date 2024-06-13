@@ -6,3 +6,7 @@
 ## Markdown  with level 2 header
 
 ## level 3 header
+
+###link
+
+Markdown supporting links, like this one to [Google] (www.google.com)
