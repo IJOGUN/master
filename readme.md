@@ -9,4 +9,4 @@
 
 ###link
 
-Markdown supporting links, like this one to [Google] (www.google.com)
+Markdown supporting links, like this one to [Google](www.google.com)
